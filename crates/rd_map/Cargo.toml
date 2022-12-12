@@ -1,0 +1,13 @@
+[package]
+name = "rd_map"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+bevy.workspace = true
+bevy_ecs_tilemap.workspace = true
+
+[lib]
+
